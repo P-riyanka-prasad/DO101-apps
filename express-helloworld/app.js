@@ -9,6 +9,6 @@ app.get('/mars', function (req, res) {
 });
 
 app.listen(8008, function () {
-  console.log('Example app listening on port 8008!');
+  console.log('Example app listening on port  8008!');
 });
 
